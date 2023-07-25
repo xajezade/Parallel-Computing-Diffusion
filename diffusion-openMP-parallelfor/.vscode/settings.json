@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "object.C": "cpp",
+        "new": "cpp",
+        "iostream": "cpp"
+    }
+}

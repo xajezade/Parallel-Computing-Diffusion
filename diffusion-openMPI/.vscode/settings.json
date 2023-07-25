@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "object.C": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}

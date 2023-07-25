@@ -1,0 +1,6 @@
+0.1  # Grid size
+51.2  #xdomain
+51.2  #ydomain
+4   #diffusion coefficient
+0.000625    #time increment
+100 1.      #number of increment and total time
